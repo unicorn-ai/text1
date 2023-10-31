@@ -1,6 +1,6 @@
 #ifndef COMMONHELPER_H
 #define COMMONHELPER_H
-
+//text
 #include <QApplication>
 #include <QDesktopWidget>
 #include <QDir>
